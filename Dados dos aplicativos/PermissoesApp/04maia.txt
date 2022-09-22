@@ -1,0 +1,43 @@
+[
+  {
+    permission: 'ler compromissos e informações confidenciais',
+    type: 'Agenda'
+  },
+  {
+    permission: 'adicionar ou modificar compromissos e enviar e-mail para os convidados sem o conhecimento dos donos',
+    type: 'Agenda'
+  },
+  {
+    permission: 'ler conteúdo do armazenamento USB',
+    type: 'Armazenamento'
+  },
+  {
+    permission: 'alterar ou excluir conteúdo de armazenamento USB',
+    type: 'Armazenamento'
+  },
+  { permission: 'tirar fotos e gravar vídeos', type: 'Câmera' },
+  {
+    permission: 'ler conteúdo do armazenamento USB',
+    type: 'Fotos/mídia/arquivos'
+  },
+  {
+    permission: 'alterar ou excluir conteúdo de armazenamento USB',
+    type: 'Fotos/mídia/arquivos'
+  },
+  {
+    permission: 'localização aproximada (com base na rede)',
+    type: 'Local'
+  },
+  {
+    permission: 'localização precisa (GPS e com base na rede)',
+    type: 'Local'
+  },
+  {
+    permission: 'impedir modo de supensão do dispositivo',
+    type: 'Outros'
+  },
+  { permission: 'executar na inicialização', type: 'Outros' },
+  { permission: 'controlar vibração', type: 'Outros' },
+  { permission: 'ver conexões de rede', type: 'Outros' },
+  { permission: 'acesso total à rede', type: 'Outros' }
+]

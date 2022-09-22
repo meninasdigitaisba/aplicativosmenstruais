@@ -1,0 +1,15 @@
+[
+  {
+    title: 'Maia - Períodos, Fertilidade e Ovulação',
+    appId: 'in.plackal.lovecyclesfree',
+    url: 'https://play.google.com/store/apps/details?id=in.plackal.lovecyclesfree',
+    icon: 'https://play-lh.googleusercontent.com/v2uasp61pk31FdFQ0WNjPEwyyPUk-Knks0tTLKEkkYoqBUSYP3_iNaVWIrxTLtBz',
+    developer: 'Plackal Tech',
+    currency: 'BRL',
+    price: 0,
+    free: true,
+    summary: 'Vencedor de FbStart Apps prestigiosas do Facebook de prémio do Ano para 2017! <br><br>Maia é um rastreador de período (calendário de ciclo menstrual) fácil e divertido de usar. Use a Maia para controlar os seus períodos, sintomas relacionados, oscilações de humor e a sua saúde em geral.<br><br><br>★ CARACTERÍSTICAS ★<br><br>- Fases de período / menstruais em códigos de cor intuitivos <br>- Previsão automática e precisa da fertilidade <br>- Ajuste a duração do ciclo e fluxo menstrual <br>- Efetua cópias de segurança para a conta e sincroniza para múltiplos dispositivos<br>- Proteção por senha<br>- Fácil entrada aos ciclos anteriores<br>- Previsão para o começo do ciclo nos meses seguintes<br>- Opções para registrar o amor, peso e temperatura<br>- Opções para registrar sintoma e humor<br>- Gráficos para peso e temperatura<br>- Ver estatísticas e histórico<br>- Definir lembretes importantes no calendário do telefone<br>- Widget com atualizações automáticas todos os dias<br>- Tema<br><br><br>★ SÃO NECESSÁRIAS AUTORIZAÇÕES ★<br><br>- Informação pessoal: Para inserir lembretes sobre as fases do ciclo, no calendário do equipamento (Não há acesso a nenhuma outra informação confidencial. Não são enviados e-mails, sem autorização)<br>- Acesso à rede: Para fazer cópia de segurança e sincronizar dados<br>- Controle de vibração: Para notificações<br>- Compra dentro da aplicação: Opte por Premium<br>- Localização Permissão: Para melhorar a precisão<br>- Permissão da câmera: Para publicar publicações com imagens no fórum Maya. Isto está em versão beta e não está disponível em todos os idiomas.<br><br><br>Para serviço de apoio, perguntas ou sugestões escrevam para: help@maya.live<br><br>Fiquem atentos aos novos recursos, atualizações e lançamentos. Siga-nos em:<br><br>http://facebook.com/MayaTheApp<br>http://twitter.com/MayaTheApp<br>https://pinterest.com/MayaTheApp<br><br>http://www.maya.live',
+    scoreText: '4,8',
+    score: 4.823514
+  }
+]

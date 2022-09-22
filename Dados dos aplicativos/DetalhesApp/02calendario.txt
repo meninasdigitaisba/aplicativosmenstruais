@@ -1,0 +1,140 @@
+{
+  title: 'Calendário Menstrual, Ovulação',
+  description: 'A ★ Mais alta avaliação (4.9) ★ Calendário do Período!\n' +
+    'Top 1 na categoria Saúde e Fitness em mais de 43 países.\n' +
+    'Top 5 na categoria Saúde e Fitness em mais de 63 países.\n' +
+    'Mais de 70 milhões de usuários de Android amam o Calendário do Período!\n' +
+    '\n' +
+    'Baixe já o mais completo e recomendado App sobre menstruação no GooglePlay!\n' +
+    '\n' +
+    'Saiba quando virá seu próximo período, alertando-a sobre os dias férteis, ovulação e risco de gravidez. Obtenha lembretes para tomar Pílula Anticoncepcional, em caso de uso do medicamento.\n' +
+    '\n' +
+    'Rastreie seus ciclos regulares e irregulares, sabendo em quais dias é mais provável engravidar, para um maior controle sobre seu ciclo mensal.\n' +
+    '\n' +
+    'Utilize-o como um diário pessoal, descobrindo padrões únicos do seu ciclo. Adicione sintomas para acompanhar o dia a dia e tendências dos ciclos anteriores facilitando na hora de reportar ao seu médico.\n' +
+    '\n' +
+    'Possibilitamos o Backup dos seus dados via email e celular. Exporte documento para seu médico e mantenha-se saudável! Recursos disponíveis para observar ciclo, IMC, relação sexual, peso, temperatura, sintomas e humores e mais!\n' +
+    '\n' +
+    'Garantimos sua Privacidade, clique em Definições/Senha para inserir senha de acesso a dados!\n' +
+    '\n' +
+    'Características:\n' +
+    '\n' +
+    '★ Confira risco de gravidez todos os dias no seu calendário\n' +
+    '★ Envie dados de backup para a conta Google e restaurar a partir dele\n' +
+    '★ Backup dos seus dados do registro do período, para o celular e email\n' +
+    '★ Controlador de ciclos , Controlador de Períodos: mais exatidão nas datas!\n' +
+    '★ Design único e diário pessoal\n' +
+    '★ 43 sintomas e 64 humor para escolher\n' +
+    '★ Modo de Gravidez, para quando engravidar ou tiver terminado o período gestacional\n' +
+    '★ Notificações de Período, fertilidade e ovulação gestor de registros\n' +
+    '★ Gráficos de peso e de temperatura.\n' +
+    '★ Controlador e previsão de datas do ciclo menstrual\n' +
+    '★ Personalize a duração do seu período, ciclo e o da sua ovulação\n' +
+    '★ Pode escolher os dados de 1, 3 ou todos os meses, como média da duração do seu ciclo\n' +
+    '★ Proteções de segurança e Privacidade\n' +
+    '★ Adicione varias contas, para registar períodos de diferentes pessoas,\n' +
+    '★ Restaure dados do controlador de período, do cartão SD ou do email\n' +
+    '★ Aplicativo disponível em Português e opções de Línguas\n' +
+    '★ Forums Atente ao fato que App Calendário do Período não é um método anticoncepcional!\n' +
+    '\n' +
+    'Adoramos receber mensagens de nossas usuárias! Recomende-nos ! Envie dúvidas, sugestões e reporte-nos erros através do email abishkking@gmail.com.\n' +
+    '\n' +
+    'SUPORTE PARA DISPOSITIVOS ANDROID WEAR OS:\n' +
+    'Previsão de período e ovulação, lembretes de beber água e lembretes de pílulas, todos podem ser usados em seus dispositivos WEAR OS.',
+  descriptionHTML: 'A ★ Mais alta avaliação (4.9) ★ Calendário do Período!<br>Top 1 na categoria Saúde e Fitness em mais de 43 países.<br>Top 5 na categoria Saúde e Fitness em mais de 63 países.<br>Mais de 70 milhões de usuários de Android amam o Calendário do Período!<br><br>Baixe já o mais completo e recomendado App sobre menstruação no GooglePlay!<br><br>Saiba quando virá seu próximo período, alertando-a sobre os dias férteis, ovulação e risco de gravidez. Obtenha lembretes para tomar Pílula Anticoncepcional, em caso de uso do medicamento.<br><br>Rastreie seus ciclos regulares e irregulares, sabendo em quais dias é mais provável engravidar, para um maior controle sobre seu ciclo mensal.<br><br>Utilize-o como um diário pessoal, descobrindo padrões únicos do seu ciclo. Adicione sintomas para acompanhar o dia a dia e tendências dos ciclos anteriores facilitando na hora de reportar ao seu médico.<br><br>Possibilitamos o Backup dos seus dados via email e celular. Exporte documento para seu médico e mantenha-se saudável! Recursos disponíveis para observar ciclo, IMC, relação sexual, peso, temperatura, sintomas e humores e mais!<br><br>Garantimos sua Privacidade, clique em Definições/Senha para inserir senha de acesso a dados!<br><br>Características:<br><br>★ Confira risco de gravidez todos os dias no seu calendário<br>★ Envie dados de backup para a conta Google e restaurar a partir dele<br>★ Backup dos seus dados do registro do período, para o celular e email<br>★ Controlador de ciclos , Controlador de Períodos: mais exatidão nas datas!<br>★ Design único e diário pessoal<br>★ 43 sintomas e 64 humor para escolher<br>★ Modo de Gravidez, para quando engravidar ou tiver terminado o período gestacional<br>★ Notificações de Período, fertilidade e ovulação gestor de registros<br>★ Gráficos de peso e de temperatura.<br>★ Controlador e previsão de datas do ciclo menstrual<br>★ Personalize a duração do seu período, ciclo e o da sua ovulação<br>★ Pode escolher os dados de 1, 3 ou todos os meses, como média da duração do seu ciclo<br>★ Proteções de segurança e Privacidade<br>★ Adicione varias contas, para registar períodos de diferentes pessoas,<br>★ Restaure dados do controlador de período, do cartão SD ou do email<br>★ Aplicativo disponível em Português e opções de Línguas<br>★ Forums Atente ao fato que App Calendário do Período não é um método anticoncepcional!<br><br>Adoramos receber mensagens de nossas usuárias! Recomende-nos ! Envie dúvidas, sugestões e reporte-nos erros através do email abishkking@gmail.com.<br><br>SUPORTE PARA DISPOSITIVOS ANDROID WEAR OS:<br>Previsão de período e ovulação, lembretes de beber água e lembretes de pílulas, todos podem ser usados em seus dispositivos WEAR OS.',
+  summary: 'Avisar o próximo período e fertilidade, fácil de engravidar ou evitar gravidez.',
+  installs: '100.000.000+',
+  minInstalls: 100000000,
+  maxInstalls: 165844198,
+  score: 4.9360356,
+  scoreText: '4,9',
+  ratings: 6791278,
+  reviews: 300015,
+  histogram: { '1': 29193, '2': 7663, '3': 32495, '4': 229609, '5': 6492301 },
+  price: 0,
+  free: true,
+  currency: 'BRL',
+  priceText: 'Free',
+  available: true,
+  offersIAP: true,
+  IAPRange: 'R$ 2,50 – R$ 26,02 por item',
+  androidVersion: 'VARY',
+  androidVersionText: 'Varies with device',
+  developer: 'Simple Design Ltd.',
+  developerId: 'Simple+Design+Ltd.',
+  developerEmail: 'abishkking@gmail.com',
+  developerWebsite: 'http://simpledesign.ltd',
+  developerAddress: 'Vistra Corporate Services Centre, Wickhams Cay II, Road Town, Tortola, VG1110, British Virgin Islands',
+  privacyPolicy: 'http://simpledesign.ltd/privacy/my_calendar.html',
+  developerInternalID: 'Simple+Design+Ltd.',
+  genre: 'Saúde e fitness',
+  genreId: 'HEALTH_AND_FITNESS',
+  familyGenre: undefined,
+  familyGenreId: undefined,
+  icon: 'https://play-lh.googleusercontent.com/3T6je2roer04CrMNWfJ1CT3VWuAWOo_qadovMi667wJ8W0DXyDflloB5aT7H9laqXvE',
+  headerImage: 'https://play-lh.googleusercontent.com/UAvjzIYWcLHnZl2KR9AEpUT4bQCWW6P4IiXXFwYzns6_8NcaZgHx9SIIfUh84Rrg5JQ',
+  screenshots: [
+    'https://play-lh.googleusercontent.com/KZyaCiVcc74DhQhY3PrEoRR9ve9Cml-6L96ADAEOuHvR6EpwQN59PD9E7uS8F7cEEw',
+    'https://play-lh.googleusercontent.com/BzRMaPMcD2Uq11rUQOssllXWXodqopttQMTng9edppPHE1UhelEUWkvKx4qSt4W46g',
+    'https://play-lh.googleusercontent.com/7hZ21yv5sH3ACk0cI7ehrEAuOAwROurezmjkc8H6Jp5herBbbIridtt1ys7q49L3VRTx',
+    'https://play-lh.googleusercontent.com/XBxp9hSnATc65D85gtxGvfnG20MEEjEO8ohwYgJ6m2Gl6FQC1BF3WYSR2JcPPQwZd_8',
+    'https://play-lh.googleusercontent.com/oE7CpGbXc7gEkUyRjcflucBbVL0v6eCtzd7R81bZip0BRXcMitLcM2z2OpNfBmHYIjk',
+    'https://play-lh.googleusercontent.com/zacnMW0_5H1B-e0tOUayWBgDdEORttfCv4Ihikhzsq6YoRf-s8dLNtMXA_XePu752Io',
+    'https://play-lh.googleusercontent.com/JLNgur6aRPB8nr2WuWFfy1n14pWoZ9pp29gzygmucsDAoz7UQ8AKCQkhcGI496TvgyVK',
+    'https://play-lh.googleusercontent.com/EzU35ZgtbMw-rUTS0SAXnwhqznbuKMt7C4CMHbxTTU_nKM-dekW91xMp4HiH2BUrcg',
+    'https://play-lh.googleusercontent.com/sE09_eamohGeSjkf_Fc000UKa6R4jLt56FFFHyYX9cNGXddxwZzpipLOe7mnhM6DaXMv'
+  ],
+  video: undefined,
+  videoImage: undefined,
+  contentRating: 'Classificação Livre',
+  contentRatingDescription: undefined,
+  adSupported: true,
+  released: '16 de mar. de 2012',
+  updated: 1654867001000,
+  version: 'VARY',
+  recentChanges: undefined,
+  comments: [
+    'O aplicativo é ótimo. Muito fácil de usar, e uma mão na roda. Mas tive um probleminha recente no telefone, e tive q formatar o aparelho, consequentemente perdi tudo, não consegui recuperar os dados desse aplicativo...oq me deixou totalmente desorganizada pois o aplicativo é tão completo q a gente acaba se tornando depende dele. Mas poderiam melhorar o sistema de beckup, para recuperação dos dados dos usuários.',
+    'Muito fácil, prático e ágil, ultilizo praticamente a 4 anos e nunca errou as datas, sempre preciso em relação a gráficos e dias. Se você é dessas que sempre se atrapalha esse app resolve. Notificação antes, durante e depois de cada ciclo. Muito bom mesmo, da inclusive para personalizar o tema do app com cada preferência sua, e cada atualização fica melhor, sem falar na facilidade de fazer backup caso voce precise.',
+    'Uso o app desde 2015, um dos pontos mais relevantes é que fazendo os backups, nunca perdi meus dados, mesmo mudando de celular algumas vezes nesse período. Além disso, o app é fácil de usar, super intuitivo. Acho que poderiam ser implementadas outras funções para vir a somar com o app, mas mesmo que continue igual, já é maravilhoso.',
+    'Aplicativo excelente, me acompanha há mais de três anos, já troquei de celular diversas vezes (Android e Android One) e o aplicativo me permite continuar com os dados a cada troca de celular, explica o passo a passo certinho para fazer essa mudança e preservar os registros. Pode colocar os sintomas, anotações, tem lembrete para beber água e etc. Recomendo muito!',
+    '🔊 SUPER RECOMENDO! Amo esse app, nunca falha. Uso como diário na parte de anotações, para depois saber cada detalhe, de cada reação do meu corpo 😉 Se mudar de aparelho, vc faz backup antes em sua conta de e-mail e pronto, depois é só instalar no novo aparelho e restaurar os dados do e-mail no backup, assim vc não perde nada! E o melhor nada de anúncios. Super explicativo e organizado. Muito Útil 😍🤩',
+    'App simples e prático, ajuda muito a lembrar dos eventos relacionados ao ciclo menstrual, os alarmes não falham. Gostei bastante! Vocês poderiam colocar a opção de emenda do anticoncepcional, pois meu calendário está todo desregulado por não haver essa opção de "continuidade" ou "zero dia de pausa" do remédio ou pelo menos atrelar essa opção ao V-Ring, que precisa ser trocado a cada X dias, ainda que não haja pausa.',
+    'Achei simplesmente maravilhoso! Funciona certinho e ajuda demais a acompanhar o ciclo. Mesmo quando é irregular. Tem várias opções para manter um histórico bem detalhado, tanto das condições físicas quanto psicológicas e mais algumas funções que é melhor baixar e conferir. Vale muito a pena! Melhor de tudo, a versão gratuita n aparece comerciais que tampam a tela. Muito obrigada galera! Amei',
+    'Aplicativo maravilhoso que uso já há alguns anos, mas nos últimos meses acredito que alguma atualização feita tirou as notificações da menstruação. Mesmo havendo a optado nas definições por apresentar as notificações elas não aparecem mais. Já sinalizei o problema mas sem êxito. Uma pena. E pelo que vi dos comentários não acontece só comigo.',
+    'Suficientemente completo pra mim. Uso o app há aproximadamente 2 anos (ou mais) e não tenho nenhuma vontade de trocá-lo. Facilidade em recuperar os dados (já mudei de aparelho 2 ou 3 vezes nesse período). Mas tenho problemas com as notificações. Muitas vezes não me notifica sobre remédios ou beber água. E são funções que realmente necessito. Já olhei todas as permissões do aparelho e realmente parece ser um problema do app.',
+    'Baixei o app essa semana, então ainda está em testes. Contudo, pelo que vi até agora, parece cumprir o que promete. Adorei as funções de sintomas e emoções! O controle de ingestão de água também é ótimo, pois permite que você programe os horários para receber o alerta. Mais para frente volto aqui e complemento. Por enquanto, está perfeito.',
+    'Uso o app a anos e até agora não tenho do que reclamar, já mudei de celular umas 4 vezes e o backup foi perfeito para salvar meus dados, cumpre bem com as previsões e as marcações. Única coisa que sinto falta é de um lembrete de início e final da menstruação, até um tempo atrás o lembrete de início tinha, mas faz um tempinho que sumiu.',
+    'Excelente app! Tem tudo que eu preciso e muito mais. Muito bem organizado e com temas bem leves e fofos. As notas contêm muitos elementos úteis de fácil acesso. O calendário é bem intuitivo e fácil de usar.O sistema de transferência de arquivos é bem funcional e confiável. Dá para ver que foi feito com muita dedicação e carinho.',
+    'esse app é simplesmente maravilhoso, organizado demais principalmente para meninas que ainda não tem um ciclo reguladinho dá pra ir editando sem problema nenhum, a interface é bastante simples então você não vai se perder e a estética é linda linda, e também pode servir como um diário, você pode dizer como se sente e os sintomas que sente, mostra todo o seu ciclo muito bonitinho e organizado, e os próximos também.',
+    'Esse é o melhor aplicativo que eu já tive, ele pensa em tudo, as coisas são extremamente explicativas e em ordem, muito seguro e responsável, você consegue se organizar bem, e também pode personalizar do seu gosto pessoal. Ele também te deixa bem confortável e confiante, não tem erro algum, é um app realmente bom, pratico e sem complicações.',
+    'Ótimo app. Boas funcionalidades. Intuitivo. (Altere a média do ciclo para ter uma experiência completa e assertiva). Na resenha anterior havia dado 3 estrelas e dito que apresenta erros frequentes. Mas me equivoquei. Na vdd eu não havia notado q o botao "ignorar ciclos irregulares" estava ativado e era isso q fazia o período fértil ter erros no calendário.',
+    'Adoro esse app! Além de indicar a próxima menstruação e período fértil, podemos registrar cada dia com sintomas e humores... Tem uma infinidade de opções. O que é excelente para termos um registro para uma consulta médica, por exemplo. Além de ter um espaço para anotações diárias. O app é bem colorido,cheio de desenhos. Dá muita vontade de preencher. Tbm lembra horário de pílulas, se tivemos relações sexuais, se foi de camisinha ou não. Sério, é demais! Amo!',
+    'Excelente e confiável ! Utilizo esse aplicativo há mais de 2 anos e ele é um ótimo companheiro para acompanhamento do período menstrual. Simples e prático, ele nunca deixou de registrar e salvar meus registros além de manter o backup, caso tenha que mudar de dispositivo celular ou resetar o aparelho. Agradeço a toda a equipe do apps Calendário menstrual por fazer parte do nosso cuidado feminino. Cuidar da saúde da mulher é uma grande missão.',
+    'Adoro o app! Acho muito fácil de mexer, bem intuitivo. Entretanto sinto falta de uma funcionalidade, atualmente se tornou muito comum utilizarmos métodos alternativos ao absorvente descartável (ex. Coletor, disco, calcinha absorvente) e temos q trocar/higienizar com algum tempo, como é algo q não sentimos e não incomoda, as vezes ocorre de esquecermos, seria interessante um lembrete durante o fluxo para troca/higienização a cada ... horas (a ser definido pelo usuário a frequência do alerta).',
+    'O melhor app para acompanhar todo o ciclo menstrual. Mais pode ficar melhor, se pudermos alterar o tema, o plano de fundo, temas florais, ou paisagens. Esse visual de madeira ou barraquinha, já rsta mais do que ultrapassado. Quero mudanças no layout, sem alterar a qualidade do app, que é muito boa. E que tal projetarem um app, para acompanhar os sintomas da menopausa?',
+    'Eu gosto do aplicativo, não uso anticoncepcionais e o APP me ajuda perfeitamente com a tabelinha menstrual. Funciona perfeitamente, sem travar e sem anúncios. Também consigo salvar e puxar backup quando preciso mudar para outro celular. Agora estou adorando a função que me informa que tenho que beber água, super prático. Enfim, super recomendo.',
+    'O app é excelente, autoexplicativo, fácil de usar e limpo de anúncios. A aferição das datas melhora com a inserção dos dados frequente, e a acertividade depende do organismo de cada uma (se é regular ou não). Ate hj nunca travou, nenhum problema. Tudo perfeito.',
+    'Uso o aplicativo a um bom tempo, gosto bastante, porém eu gostaria de dar algumas sugestões aos desenvolvedores do aplicativo. Vocês poderiam colocar mais opções de temas e também dar a opção, de se você colocar sexo duas vezes poder colocar ao mesmo tempo protegido e desprotegido se for o caso, sinto falta dessas funções, tirando isso adoro o aplicativo e recomendo demais!!! Só não dei 5 estrelas por que sinto falta dessas funções.',
+    'Super recomendo. Me mantém atualizada. Contabiliza corretamente o ciclo menstrual e tem muitas outras utilidades complementares referente ao assunto. Top quem costuma perder a data e passa vergonha por ser surpreendida em momentos impróprios. Seus problemas acabaram. Baixe o APP.',
+    'Eu gosto demais desse app, uso há anos já. É tudo muito bem organizado e tem muitas ferramentas, eu só acredito que poderia ter uma interface mais atrativa e no modo gestacional poderia ter mais informações, coisas mais atrativas e de ajuda pra gestante.',
+    'Muito bom uso ele desde 2016 já mudei de celular várias vezes e sempre consigo recuperar os dados. Ele é muito bom calcula certinho a data e raro errar super recomendo. Ele ainda tem o lembrete pra beber água, é da para personalizar do jeito que quiser. Muito bom e prático já indiquei pra irmã e prima elas usam e é muito bom e útil',
+    'Ótimo !Não tenho do que reclamar 👏🏾eu tinha o clue e estou experimentando esse por causa dos desenhos de coração florzinhas e etc. Rsrs Muito legal parabéns 👏🏾😍,Espero que o armazenamento na nuvem funcione mesmo quando eu trocar de telefone bjs,,, ( PODERIA TER A OPÇÃO DE VIRAR A TELA, digo isso porque a parte de baixo do meu telefone está com defeito ) Editado 2022 : SUPER INDICO! MESMO MINHA MENSTRUAÇÃO IRREGULAR ELE ACERTA OS DIAS . ATE DE FERTILIDADE.',
+    'Ele é incrível, sempre marcando na data certinha, se quando vai descer, quando vai acontecer a ovulação, e ele n desregula, pode iniciar o cll quantas vezes quiser e ele não muda. Também da pra colocar senha para que ninguém entre no aplicativo sem sua permissão. Ele também ajuda a contar dias de gravidez para aquelas mulheres q estão na gestação e n sabe quantos dias exatos esta grávida!!! É um aplicativo maravilhoso, amei ele, parabéns pelo app incríveis!!!',
+    'Gostei muito do aplicativo, tem várias opções de sintomas e emoções e tmbem mostra certinho as fases do ciclo. Além disso possibilita alterar com facilidade as configurações.',
+    'Amo demais esse app!! E é totalmente gratuito!!Sempre achei que meu ciclo fosse irregular, mas com esse aplicativo aprendi mais sobre o meu corpo e sei agora que não é. Ele acerta 98% das vezes, já o uso há mais de 8 anos e só tem melhorado com diversas opções pra adicionar: peso, temperatura, água consumida, anticoncepcional etc. Recomendo sempre que posso as minhas conhecidas, pois ele é incrível!!',
+    'Bonitinho e bem útil. Espero que não apareça aqueles inconvenientes comerciais, da qual só sujam a interface e não servem de nada. Desinstalei o último aplicativo por causa disso.',
+    'Darei quatro estrelas por causa de um detalhe, que é: Backup. Já aconteceu de eu preciso desinstalar o app e quando instalar o backup não funcionar da maneira esperada. Mas tirando esse detalhe o app é incrível, uso a alguns anos já e simplesmente amo.',
+    'ótimo, uso a muitos anos e nunca deixou a desejar em nada... só sugiro colocar uma opção para mulheres inférteis, já que as funções "risco de engravidar", gestação, período fértil não são funcionais pra esse grupo. No mais, obrigada pela ferramenta!',
+    'O Aplicativo é excelente, uso ele a mais de 6 anos. Sempre que troco de celular não perco meus dados pois ele salva tudo. A tabela super funciona com meu ciclo. Ele é simplesmente perfeito.',
+    'Já uso há anos, me ajuda com relação ao ciclo, nível de acerto muito alto pra mim que tenho um ciclo regular, fora as opções de anotações que dá pra colocar cada dia, enfim, muito bom.',
+    'Perfeito 👏 Faço uso do mesmo a anos! No entanto ultimamente venho sentindo falta de um pequeno recurso "leitura biométrica para ter acesso ao APP" ficar digitando a senha não é muito cômodo, no mais, não tenho do que reclamar!',
+    'App muito bom. Tenho há anos. Porém, uma dica: ao trocar de aparelho não esqueça de antes fazer o backup no aplicativo para resgatar todas as informações e mater os controles',
+    'Adorei o aplicativo, a margem de erro do início da menstruação é muito pequena ( geralmente "errando" só em um dia de antecedência ) e também é muito prático. Facilitou muito minha vida após eu começar a usar.',
+    'Eu super recomendo o App é fácil de usar e faz uns 3 anos que uso e ele sempre acerta o dia que irei menstruar eu gosto bastante pelo fato de poder anotar as alterações que ocorreu durante o ciclo,fica até mais fácil para descrever quando necessita procurá um ginicologista.',
+    'Tenho esse app a 4 anos e ele é ótimo, nunca deu um problema se quer, armazena minhas informações, me dá alertas sobre minha saúde e ainda oferece fóruns de conversas de diversos temas, muito útil, prático e interessante.',
+    'Me ajuda ter um melhor controle do meu dia a dia. Mas perdi meu histórico e todas informações principalmente as gestações e fiquei mal tinha histórico desde 2014 experdi tudo. Mas o aplicativo é bem fincional ajuda bastante.'
+  ],
+  appId: 'com.popularapp.periodcalendar',
+  url: 'https://play.google.com/store/apps/details?id=com.popularapp.periodcalendar&hl=pt-br&gl=br'
+}

@@ -1,0 +1,13 @@
+[
+  {
+    permission: 'ver conexões Wi-Fi',
+    type: 'Informações sobre a conexão Wi-Fi'
+  },
+  { permission: 'executar na inicialização', type: 'Outros' },
+  { permission: 'acesso total à rede', type: 'Outros' },
+  { permission: 'ver conexões de rede', type: 'Outros' },
+  {
+    permission: 'impedir modo de supensão do dispositivo',
+    type: 'Outros'
+  }
+]

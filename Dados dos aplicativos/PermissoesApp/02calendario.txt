@@ -1,0 +1,32 @@
+[
+  { permission: 'encontrar contas no dispositivo', type: 'Contatos' },
+  {
+    permission: 'ler conteúdo do armazenamento USB',
+    type: 'Fotos/mídia/arquivos'
+  },
+  {
+    permission: 'alterar ou excluir conteúdo de armazenamento USB',
+    type: 'Fotos/mídia/arquivos'
+  },
+  {
+    permission: 'ler conteúdo do armazenamento USB',
+    type: 'Armazenamento'
+  },
+  {
+    permission: 'alterar ou excluir conteúdo de armazenamento USB',
+    type: 'Armazenamento'
+  },
+  { permission: 'encontrar contas no dispositivo', type: 'Identidade' },
+  {
+    permission: 'localização aproximada (com base na rede)',
+    type: 'Local'
+  },
+  { permission: 'controlar vibração', type: 'Outros' },
+  { permission: 'ver conexões de rede', type: 'Outros' },
+  { permission: 'acesso total à rede', type: 'Outros' },
+  { permission: 'executar na inicialização', type: 'Outros' },
+  {
+    permission: 'impedir modo de supensão do dispositivo',
+    type: 'Outros'
+  }
+]

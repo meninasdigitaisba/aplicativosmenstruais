@@ -1,0 +1,77 @@
+{
+  sharedData: [
+    {
+      data: 'Interações no app',
+      optional: false,
+      purpose: 'Análise de dados',
+      type: 'Atividade no app'
+    },
+    {
+      data: 'Registros de falhas',
+      optional: false,
+      purpose: 'Análise de dados',
+      type: 'Informações e desempenho do app'
+    },
+    {
+      data: 'Diagnóstico',
+      optional: false,
+      purpose: 'Análise de dados',
+      type: 'Informações e desempenho do app'
+    },
+    {
+      data: 'Identificadores do dispositivo e outros',
+      optional: false,
+      purpose: 'Publicidade ou marketing',
+      type: 'Identificadores do dispositivo e outros'
+    }
+  ],
+  collectedData: [
+    {
+      data: 'Local aproximado',
+      optional: true,
+      purpose: 'Funcionalidade do app',
+      type: 'Local'
+    },
+    {
+      data: 'Local exato',
+      optional: true,
+      purpose: 'Funcionalidade do app',
+      type: 'Local'
+    },
+    {
+      data: 'Endereço de e-mail',
+      optional: false,
+      purpose: 'Funcionalidade do app e Gerenciamento da conta',
+      type: 'Informações pessoais'
+    },
+    {
+      data: 'Outras informações',
+      optional: true,
+      purpose: 'Funcionalidade do app',
+      type: 'Informações pessoais'
+    },
+    {
+      data: 'Informações sobre saúde',
+      optional: true,
+      purpose: 'Funcionalidade do app',
+      type: 'Saúde e fitness'
+    },
+    {
+      data: 'Eventos da agenda',
+      optional: true,
+      purpose: 'Funcionalidade do app',
+      type: 'Agenda'
+    }
+  ],
+  securityPractices: [
+    {
+      practice: 'Os dados são criptografados em trânsito',
+      description: 'Seus dados são transferidos por uma conexão segura'
+    },
+    {
+      practice: 'Você pode solicitar a exclusão dos dados',
+      description: 'O desenvolvedor permite solicitar a exclusão dos seus dados'
+    }
+  ],
+  privacyPolicyUrl: 'http://plackal.in/terms-and-privacy-policy/'
+}

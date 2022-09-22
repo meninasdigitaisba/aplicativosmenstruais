@@ -1,0 +1,160 @@
+{
+  title: 'Calendário Menstrual Flo',
+  description: '230 milhões de mulheres ao redor do mundo já escolheram Flo! \n' +
+    '\n' +
+    'Flo Calendário Menstrual é 100% gratuito, e uma maneira inteligente e simples para a mulher acompanhar seu ciclo menstrual, período de ovulação e gravidez.\n' +
+    '\n' +
+    'Todas as mulheres, mesmo aquelas com ciclos irregulares, podem confiar neste app de menstruação. Registre diá de menstruação em um calendário acessível, agende lembretes do ciclo menstrual, grave humor e sintomas da TPM, use a calculadora menstrual, o calendário de diá de ovulação, de gravidez, pico de fertilidade e controle totalmente sua saúde..\n' +
+    '\n' +
+    'MONITORADOR DA MENSTRUAÇÃO E DA OVULAÇÃO\n' +
+    '\n' +
+    '• Acompanhe seu ciclo e menstruação com o calendário menstrual em português\n' +
+    '• Registre a data de início, de término e fluxo menstrual em tabelinha de ciclo menstrual, diário da menstruação\n' +
+    '• Acompanhe sua janela fértil (dias férteis) e seu período de ovulação para ver sua chance de engravidar com a calculadora fértil de e ovulação\n' +
+    '• Altere o comprimento do seu ciclo, menstruação e fase lútea com o calendário do seu ciclo menstrual\n' +
+    '• Siga os dias favoráveis do período fértil no tabela fértil\n' +
+    '• Analise seus ciclos atuais e passados com o rastreador menstrual\n' +
+    '• Receba previsões sobre a próxima menstruação com o calendário menstrual em português\n' +
+    '• Registre os resultados dos testes de ovulação\n' +
+    '• Monitore sua temperatura basal\n' +
+    '• Registre os resultados dos testes de gravidez (ovulação positiva, ovulação negativa)\n' +
+    '• Registre mais sintomas para obter previsões melhoradas se tiver menstruação irregular com a tabela de ovulação, fertilidade (dias férteis) e menstruação\n' +
+    '• Monitore sua gestação com o calendário gestacional, ideal para mulheres grávidas\n' +
+    '\n' +
+    'CALCULADORA DE GRAVIDEZ (CALENDÁRIO) E MONITORADOR\n' +
+    '\n' +
+    '• Veja a contagem decrescente para o nascimento do bebê\n' +
+    '• Calcule as semanas de gravidez\n' +
+    '• Escolha e mude a semana da sua gravidez por semana\n' +
+    '\n' +
+    'MONITORADOR DE ESTILO DE VIDA E FITNESS\n' +
+    '\n' +
+    '• Acompanhe seu desejo sexual, atividade sexual e humor todos os dias com o calendário de ovulação e menstruação\n' +
+    '• Registre seus sintomas de TPM com a calculadora fértil dias férteis, período de ovulação, menstruação\n' +
+    '• Registre seu corrimento vaginal com um calendário feminino\n' +
+    '\n' +
+    'LEMBRETES\n' +
+    '\n' +
+    '• Programe lembretes e receba notificações da sua período menstrual e ovulação com a tabela de ovulação e fertilidade\n' +
+    '• Lembre-se de registrar peso, sono, temperatura e ingestão de água com o calendário feminino\n' +
+    '\n' +
+    'GRÁFICOS\n' +
+    '\n' +
+    '• Mantenha seu ciclo e histórico de sintomas com a calculadora fértil (dias férteis), ovulação e menstruação\n' +
+    '• Analise seu ciclo e a duração da menstruação com o calendário de menstruação e ovulação\n' +
+    '• Veja o gráfico da sua TCB e ovulação com a calculadora de ovulação\n' +
+    '• Veja a conexão entre seu ciclo e seu apetite\n' +
+    '• Analise suas mudanças de peso e atividades durante o ciclo com o calendário de ovulação e menstruação\n' +
+    '\n' +
+    'CONFIGURAÇÕES\n' +
+    '\n' +
+    '• Crie uma conta para salvar seus dados pessoais\n' +
+    '• Permita o acesso seguro pelo seu código pessoal para que apenas você possa entrar no aplicativo\n' +
+    '• Escolha configurações de design do calendário de ovulação e menstruação\n' +
+    '\n' +
+    'Baixe desse diário de tabela menstrual e junte-se a milhões de mulheres e meninas que confiam suas menstruações no Flo tabelinha de ciclo menstrual, de menstruação e ovulação.\n' +
+    '\n' +
+    'As previsões do Flo não devem ser usadas como método contraceptivo ou anticoncepcional.\n' +
+    '\n' +
+    'support@flo.health',
+  descriptionHTML: '230 milhões de mulheres ao redor do mundo já escolheram Flo! <br><br>Flo Calendário Menstrual é 100% gratuito, e uma maneira inteligente e simples para a mulher acompanhar seu ciclo menstrual, período de ovulação e gravidez.<br><br>Todas as mulheres, mesmo aquelas com ciclos irregulares, podem confiar neste app de menstruação. Registre diá de menstruação em um calendário acessível, agende lembretes do ciclo menstrual, grave humor e sintomas da TPM, use a calculadora menstrual, o calendário de diá de ovulação, de gravidez, pico de fertilidade e controle totalmente sua saúde..<br><br><b>MONITORADOR DA MENSTRUAÇÃO E DA OVULAÇÃO<br><br>• Acompanhe seu ciclo e menstruação com o calendário menstrual em português<br>• Registre a data de início, de término e fluxo menstrual em tabelinha de ciclo menstrual, diário da menstruação<br>• Acompanhe sua janela fértil (dias férteis) e seu período de ovulação para ver sua chance de engravidar com a calculadora fértil de e ovulação<br>• Altere o comprimento do seu ciclo, menstruação e fase lútea com o calendário do seu ciclo menstrual<br>• Siga os dias favoráveis do período fértil no tabela fértil<br>• Analise seus ciclos atuais e passados com o rastreador menstrual<br>• Receba previsões sobre a próxima menstruação com o calendário menstrual em português<br>• Registre os resultados dos testes de ovulação<br>• Monitore sua temperatura basal<br>• Registre os resultados dos testes de gravidez (ovulação positiva, ovulação negativa)<br>• Registre mais sintomas para obter previsões melhoradas se tiver menstruação irregular com a tabela de ovulação, fertilidade (dias férteis) e menstruação<br>• Monitore sua gestação com o calendário gestacional, ideal para mulheres grávidas<br><br><b>CALCULADORA DE GRAVIDEZ (CALENDÁRIO) E MONITORADOR<br><br>• Veja a contagem decrescente para o nascimento do bebê<br>• Calcule as semanas de gravidez<br>• Escolha e mude a semana da sua gravidez por semana<br><br><b>MONITORADOR DE ESTILO DE VIDA E FITNESS</b><br><br>• Acompanhe seu desejo sexual, atividade sexual e humor todos os dias com o calendário de ovulação e menstruação<br>• Registre seus sintomas de TPM com a calculadora fértil dias férteis, período de ovulação, menstruação<br>• Registre seu corrimento vaginal com um calendário feminino<br><br><b>LEMBRETES</b><br><br>• Programe lembretes e receba notificações da sua período menstrual e ovulação com a tabela de ovulação e fertilidade<br>• Lembre-se de registrar peso, sono, temperatura e ingestão de água com o calendário feminino<br><br><b>GRÁFICOS</b><br><br>• Mantenha seu ciclo e histórico de sintomas com a calculadora fértil (dias férteis), ovulação e menstruação<br>• Analise seu ciclo e a duração da menstruação com o calendário de menstruação e ovulação<br>• Veja o gráfico da sua TCB e ovulação com a calculadora de ovulação<br>• Veja a conexão entre seu ciclo e seu apetite<br>• Analise suas mudanças de peso e atividades durante o ciclo com o calendário de ovulação e menstruação<br><br><b>CONFIGURAÇÕES</b><br><br>• Crie uma conta para salvar seus dados pessoais<br>• Permita o acesso seguro pelo seu código pessoal para que apenas você possa entrar no aplicativo<br>• Escolha configurações de design do calendário de ovulação e menstruação<br><br><b>Baixe desse diário de tabela menstrual e junte-se a milhões de mulheres e meninas que confiam suas menstruações no Flo tabelinha de ciclo menstrual, de menstruação e ovulação.</b><br><br>As previsões do Flo não devem ser usadas como método contraceptivo ou anticoncepcional.<br><br>support@flo.health</b></b>',
+  summary: 'Tabelinha de ciclo menstrual. Fertilidade, Menstruação feminina e gravidez. TPM',
+  installs: '50.000.000+',
+  minInstalls: 50000000,
+  maxInstalls: 93267556,
+  score: 4.876231,
+  scoreText: '4,9',
+  ratings: 2712679,
+  reviews: 132790,
+  histogram: { '1': 21439, '2': 12462, '3': 33636, '4': 145319, '5': 2499811 },
+  price: 0,
+  free: true,
+  currency: 'BRL',
+  priceText: 'Free',
+  available: true,
+  offersIAP: true,
+  IAPRange: 'R$ 4,89 – R$ 589,99 por item',
+  androidVersion: 'VARY',
+  androidVersionText: 'Varies with device',
+  developer: 'Flo Health Inc.',
+  developerId: '7859780945987939075',
+  developerEmail: 'support@flo.health',
+  developerWebsite: 'https://flo.health/',
+  developerAddress: '27 Old Gloucester Street, London, England, WC1N 3AX',
+  privacyPolicy: 'https://flo.health/privacy-policy',
+  developerInternalID: '7859780945987939075',
+  genre: 'Saúde e fitness',
+  genreId: 'HEALTH_AND_FITNESS',
+  familyGenre: undefined,
+  familyGenreId: undefined,
+  icon: 'https://play-lh.googleusercontent.com/PAfUiu86ZQhFzYLRXcaqno8DXc-1hQtFd9MLkEjuursh40S_x8VOlgpmWKFLgiaNz-4',
+  headerImage: 'https://play-lh.googleusercontent.com/3u4-yGXNO14a86tEgT7VLMfJKE83Tbe5QMcWb7CE4scufW-I4dl8dfeQT_JKmiNrTsY',
+  screenshots: [
+    'https://play-lh.googleusercontent.com/wUs0V89QNGbIuSjdnCiTDuRHpQaUjBrn9LLyu--fEUCZBJqtiTzSDAwGtZPAuZolGxZl',
+    'https://play-lh.googleusercontent.com/2SbxBpIVkm09oCfSEfZMYdVzAG2JEWsnb5x-aXokHhWWaj_aseVxAvGL3jZ0MAMi4zI',
+    'https://play-lh.googleusercontent.com/vV-bljqx9jIgeXcKJItctdw-J9TVyTLVbQ-IjzrNLiD9RaUBP2oXKj1jnyZ9boBUcWM',
+    'https://play-lh.googleusercontent.com/snO4UJ9RAs8AgDcGo4NANVpqwfSVKjaEuDyPqi7otxlOXd5te7cCesw3-cwJBv3Vdr85',
+    'https://play-lh.googleusercontent.com/zuI2XIUBbA1rPx7VjtDhH-AAN_XGYhF3zF-7ntDZgwBRupP-0jS3g8aMja2KqOH37Dc',
+    'https://play-lh.googleusercontent.com/y94_gch_9UD1kZqGhbMluNaXNtr1I3IvMMDBebt8HBaXO2imU8m7oVRDWHq9RoCfsA',
+    'https://play-lh.googleusercontent.com/nj1p053p1SWig8afNK7xGqKgHqwPK64HwAMYvUStW1gtFumY1beA-z4YHWn4kmm2umM',
+    'https://play-lh.googleusercontent.com/Hzi6ocFVqCzKCd02vrMCg1rLg3-vRalnidllDw5GuSERZAwBUgBvZvdM7az5Smfrh6MW',
+    'https://play-lh.googleusercontent.com/BM3RTEdShZ17-nPVz7aw7eeUuuvaT8GjxO5mijZRtnHOkDo-CXijWhi1s9zuulJTTA',
+    'https://play-lh.googleusercontent.com/B_pV3CLAs8_v9kbeCWvwBqSCHOvK1QKLEHQ7SgBRWUXxqnPIQB2GdktMKpa0Z1U-XALr',
+    'https://play-lh.googleusercontent.com/avUx3crT9JQyxc5Kc-SGb8zlfyHK24S2zT_9LtOWZvndMrjIoIr6WP3M-fFMumGCZg',
+    'https://play-lh.googleusercontent.com/LNaR0EOJsmP9E3rWOonDTOzfeZbhHv1t19q6wGgiq_-q-JQ7_KR5HdXRLZmTx0GTe60',
+    'https://play-lh.googleusercontent.com/YLagEc5EZKQo2TBY4NciIxqzvysOddofbkOcy2nArVgT2W9SL1kkbRWCSQN3wxBAnw'
+  ],
+  video: undefined,
+  videoImage: undefined,
+  contentRating: 'Classificação Livre',
+  contentRatingDescription: undefined,
+  adSupported: false,
+  released: '12 de abr. de 2016',
+  updated: 1659601586000,
+  version: '8.18.0',
+  recentChanges: '<br>Olá, tudo bem?<br><br>Fizemos algumas atualizações técnicas para ajudar você a monitorar seu corpo e aprender ainda mais com nosso aplicativo. Tudo isso com muito carinho ❤️<br><br><br>Sempre a seu lado,<br>Equipe do Flo<br><br>P.S.: não se esqueça de avaliar o Flo e deixar um comentário se você gosta do nosso app.',
+  comments: [
+    'O app é ótimo, nunca erra. Uso a anos. O problema é que limitou e quase o app inteiro é pra versão Premium, você só consegue acompanhar seu ciclo. Para as pessoas que não tem condição de pagar pelo Premium, fica apenas com aquela parte de controle de ciclo, todas as outras coisas fica a desejar. Infelizmente, vou buscar por outro app mais completo e que seja acessível para todos. Pelo menos como antes, alguns tópicos disponíveis.',
+    'O app é lindo, as notificações são legais e as funcionalidades também. Mas a experiência do usuário gratuito é péssima. Você recebe notificação dizendo "seu ciclo mudou" e ai quando clica, pode ler uma página mas precisa pagar pra ter a informação completa. Não estou dizendo que o app não deva ter as funções pagas, mas ENGANAR o usuário é jogo baixo. Tenha textos pagos, mas se chamar o usuário para o app, ofereça um conteúdo completo gratuito. Ou deixe claro que o conteúdo é pago desde o início.',
+    'O app é bacana. Interace intuitiva, limpa, fácil de usar. Nos 2 primeiros meses tive acesso à um conteúdo bacana, com explicações sobre o ciclo, menstruação etc, mas agora vc clica em qualquer conteúdo, e é tudo da versão premium que não tenho como aderir. Se tornou um bloco de notas apenas. Vou instalar outro.',
+    'O app em si é muito bom, gosto muito do papo privado e tem uma boa calculagem em relação ao ciclo. Porém, depois de algum tempo quando não se assina o Premium ele começa a dar uma série de problemas. Tirando o fato de que antes haviam cursos e entrevistas que eram acessíveis a todos, agora apenas se você assina o plano. Acho que estão privando muitas coisas desnecessariamente.',
+    'O app é muito bom, mas poderia ter mais opções de exercícios leves, como caminhada e até mesmo os afazeres de casa, poderia ter lembrete para anotar no app os sintomas diários, pois só tem para início e final da menstruação e ovulação, registro de peso, e água, mas nada para lembrar anotação diária. Poderia também dar outra opção para acessarmos alguns assuntos de nosso interesse, não apenas com o premium, isso já melhoraria o app em 100%.',
+    'O app era simplesmente perfeito devido ao conteúdo e informações que trazia baseado em seus ciclos, tudo muito acessível e prático. Agora está confuso e 90% do conteúdo é para assinantes Premium, o que faz do app só um bloco de notas. É mais fácil fazer logo com que toda a experiência seja paga, porque tá chatinho demais, mudando infelizmente...',
+    'App excelente, mas cansa um pouco as ofertas constantes para a versão paga. O APP é cheio de informações e recursos, alguns pagos e outros gratuitos. A versão gratuita funciona super bem. Mas chega a ser cansativo toda vez que abrimos, eles oferecem informações e interações que só podem ir adiante na versão paga. Isso chega a desestimular o uso da versão gratuita que no momento é o que supre minha necessidade.',
+    'Fui cobrada indevidamente pelo aplicativo!!!! Aceitei usar durante o período de teste o Premium, para ver se havia algumadiferençada versão gratuita. Havia um aviso dizendo que eu seria avisada antes de terminar o período teste para eu decidir se assinaria ou não. Por fim, não fui avisada e fui cobrada pela assinatura. Me sinto lesada pelo aplicativo!!!!!!! Quero o meu dinheiro de volta!!!!!!',
+    'Ele é ótimo, mas faz uns meses que ele está apresentando muitas falhas. O aplicativo parou de enviar notificações para tomar o anticoncepcional. Ou na pausa, ele ainda continua mandando notificações, ficou tudo muito confuso e difícil. Estou pensando seriamente em desinstalar, pois já faz meses que apresenta esses problemas, embora seja o meu app preferido.',
+    'PERFEITO! E olha que eu nem tenho o Premium. Sério, é um dos meus apps favoritos do momento. Muito completo messsssmo, não é apenas um calendário menstrual ou pra organizar os dias, mas ele oferece cursos maravilhosos, o monitoramento de Passos, água, etc, o papo privado, eu tô amando demais. Fora as ilustrações, sou ilustradora e fico encantada com apps/sites que contém ilustrações que tem a ver com o tema proposto.',
+    'Eu amo/amava o Flo, o acompanhamento é ótimo e as previsões também, a interface linda e o chat privado muito divertido. Porém a última atualização fez perder a simplicidade, as indicações de artigos na tela inicial poluem a vista e deixam os sintomas em segundo plano. Agora todos os artigos são Premium, além da dificuldade de visualizar naquela modalidade "stories". Não quero ficar recebendo indicação de artigos se toda hora vai precisar pagar, eu quero só usar o calendário simples e ser feliz.',
+    'Ele é fantástico, já uso a bastante tempo, é muito simples de usar, é muito atraente, os artigos são maravilhosos, mostra com alta precisão todo o ciclo, além de ter a análise de sintomas, isso me ajuda tanto a passar por todo o meu período com mínimo desconforto. Enfim, baixem, não vão se arrepender! Tem compras dentro do app, mas ele tem muitos recursos grátis 🥰',
+    'O aplicativo é excelente. Mas eu tenho duas sugestões de melhoria. 1a. Em relação ao monitoramento dos contraceptivos orais uma outra opção pra quem esqueceu a pílula e tomou com horas de atraso com um espaço para colocar o total de horas de atraso. O ícone pode ser de cor diferente. 2a. Uma melhor visualização macro do calendário Flo com todas as informações do período (Com os ícones pequenininhos do monitoramento nas datas). Acho que fica melhor para visualizar.',
+    'Gostei muito deste APP, gostaria de sugerir que colocassem mais opções de sintomas como, por exemplo, "colo inchado", mais opções de exercícios como "aquecimento", "alongamento", "caminhada". Eu faço dança, mas ela está ligada a aeróbica, poderia ser separadas essas opções. Somente uma sugestão, mas não tenho o que reclamar deste APP, acho o melhor e recomendo!',
+    'Uso esse app tem anos, e é perfeito! O único problema é que tem é a sincronização do calendário quando conectamos a uma conta com backup. Está horrível! Sempre quando preciso desinstalar o app e instalar de novo, perco todo o calendário dos meses anteriores, e isso é muito chato e complicado. Gostaria que vocês dessem uma mexida, porque pra mim esse é o único problema que tem no app, tirando o resto ele é maravilhoso. Com previsões super certas ❤️',
+    'Uso há 4 anos e é o que + indico entre os apps do gênero. Interface bonita e simples. As previsões funcionam muito bem e ele te permitir editar os marcadores que deseja. O Flo melhorou com as atualizações, só não dei 4 estrelas (ainda) porque: 1. Na atividades poderia ter "caminhada" como opção (é diferente de corrida) 2. Os lembretes estavam dando problema, acho que melhorou mas ainda nao deu tempo de saber c ctz. 3. Falta opção de colocar absorvente/coletor/ outros, o q é bacana de acompanhar.',
+    'Eu precisava de um bom app para introduzir quase 19 anos de dados sem muita dificuldade. De todos os que testei, este parece ser, de longe, o melhor (melhor que isso, só se a Winkpass continuasse a atualizar o iPeriod e o sync funcionasse, para que eu não tivesse que migrar todos os dados). Até o momento estou adorando. Apenas sinto falta de alguns stats extras. Por exemplo: em sintomas, poderia haver tontura e flatulência. Cheguei a procurar se havia alguma compra no app com mais opções.',
+    'Aplicativo ótimo para o que propõe, muitas opções de registro desde temperatura corporal até todos os sintomas do ciclo, o que são excelentes pra gente se conhecer melhor, além de ótimas dicas nas fases do ciclo! Mas em contrapartida, na versão gratuita chega a ser insuportável a quantidade de vezes que ele abre a página de assinatura e tenta te convencer a assinar.... Já pensei em desinstalar o app várias vezes por conta disso, só não fiz por conta dos registros já feitos!',
+    'App simplesmente INCRÍVEL! Fácil de usar, uma interface interativa muito muito útil e bonita. Os artigos são instrutivos, curtos e diretos. Previsões muito eficazes e testes completos. Poderia ficar o dia todo falando sobre o quanto o Flo é ótimo e fica cada vez melhor com as atualizações. Amo demais esse app facilita muito a minha vida, além de me ajudar muito também, aprendi muita coisa com ele. Super recomendo!',
+    'O aplicativo é ótimo, e tem uma interface fácil de utilizar e compreender as informações. Obrigada por criarem um calendário menstrual tão bom. Porém, gostaria se fosse possível em uma próxima atualização, receber mais informações sobre TCB e avaliação do Muco, pois isso ajuda muito em ciclos irregulares. E também, claro, se for possível, mais opções com relação ao desejo sexual (ex.: baixo, médio e alto ou muito) e emoções/sentimentos e esportes (ex.: ciclismo utilitário, caminhada leve).',
+    'Excelente! Você tem o seu acesso com login, quando precisei trocar de celular, consegui recuperar meu histórico de ciclos. Com ele tenho muito mais controle e observo melhor as mudanças no corpo e emocionais. É um App fácil de mexer e bonito. Tem todas as informações que são necessárias para acompanhar um ciclo, atividade física, sintomas, etc. Sensacional!',
+    'Eu amava o app até ele começar a apresentar falhas que me deixam bastante chateada. Ele não consegue registrar os dados do Google fit, embora esteja conectado corretamente. Ele não monitora minhas atividades. Outra questão é a falta de opções de parâmetro de monitoramento. Nosso ciclo é amplo, acontecem muitas coisas dentro dele, então acho necessário que haja essas opções.',
+    'Esse aplicativo é simplesmente perfeito! Nenhum outro chega nem perto, nem da versão gratuita, que já atende bem as necessidades. Para a mulher que realmente deseja não apenas ter controle das fases hormonais, mas compreender a si mesma por meio do seu ciclo. O app é personalizável, intuitivo, bonito, tem chat para as usuárias conversarem sobre temas pertinentes, artigos sobre saúde feminina. Tem como acompanhar o sono, sintomas físicos e emocionais e até lembrete para beber água. Sou fã!♡',
+    'O aplicativo é bom. Após a assinatura, não há grandes novidades, salvo os grupos que são muito bons. Mas todo mês, quando aparece o "resumo" do ciclo, é quase o mesmo. Outra coisa que poderia ser revista é quando muda para registrar o que sente durante a gravidez. Faltam coisas mais específicas como: gases, tontura, consultas. Só anotar não adianta porque não altera em nada a gama de artigos que aparece.',
+    'Eu gosto muito do aplicativo, uso há alguns anos e sempre foi muito assertivo e auxiliador. Acho que algumas coisas podem ser melhoradas, como o Assistente Virtual que aparece muito rápido e antes que eu possa continuar com a interação ele some. Sugiro um ícone onde seja possível utilizá-lo, se essa função já existem, infelizmente ela é impossível de encontrar',
+    'Melhor APP de autoconhecimento que já utilizei! É extremamente intuitivo e humanizado. Além de registrar e auxiliar no ciclo, mensalmente a assistente Flo analisa os demonstrativos do mês, bem como dos últimos seis meses. O app contém dicas e recomenda leituras necessárias para auxílio no autoconhecimento (físico e emocional). Me sinto muito bem amparada pelo Flo, ele é perfeito! Única coisa que eu incrementaria seria sincronização lunar (adicionar as fases da lua e signo em que se encontra).',
+    'O app é ótimo! De todos, o melhor! pois, consigo acompanhar em tempo real , com escalas inteligentes.😉 Mas sinto falta do teste de perguntas que costumava aparecer, juntos com os artigos, infelismente não recebo mais.😔 E como sugestão, poderia colocar legendas detalhadas , para especificar cada sintoma/fases de corrimento do ciclo.',
+    'O App é bem feito, e completo. Atende todas as minhas necessidades. Só uma Obs: Antes o App era totalmente gratuito, mas de uns tempos para cá, ele se tornou "pago", para ter mais acesso à conteúdos vc precisa pagar. Mesmo assim ele habilita que vc continue tendo acesso às informações não tão completas como antes... Ñ sinto necessidade de ter uma conta paga, pois na versão gratuita já tenho tudo que preciso. Só achei um tão pouco desnecessário a versão paga, mas tá tudo bem. Indicaria sim.',
+    'Muito bom, é muito útil, tem como você ir colocando tudo o que sente todos os dias e a precisão é muito boa! Tem artigos também, de acordo com o que você vai anotando vão aparecendo artigos pra você ler que são muito interessantes! Super recomendo! E pra quem quer engravidar tem o modo gravidez, pra quem não quer é só ficar de olho na tabelinha... É um App muito prático e fácil de usar!',
+    'Fiquei há dois meses mais ou menos sem usar o app, um aplicativo que era maravilhoso ficou horrível! Não sei o que está acontecendo, uso desde o começo de 2019 e nunca tive nenhum problema mas agora tudo travou. Não consigo entrar na minha conta para restaurar meus dados, sempre dá erro. Além de as previsões que também só ficam carregando e dão erro no final. Espero que resolvam, era o melhor calendário menstrual. 💔',
+    'Ficou muito ruim. Antes tinha vários artigos diários de acordo com meus sintomaa, coisas instrutivas, agora colocaram tudo no mesmo lugar e eu tenho que ficar caçando sem contar que só funciona na versão pro, se não vc não consegue nem ler nada. Tudo em formato de Story. Olha se for uma versão beta, pode ter certeza que ficou péssimo. Era tão bom.',
+    'Está com muitos bugs de monitoramento, que é a função principal do app. Se meu ciclo começa, ele marca um dia antes como se tivesse começado na terça p.ex, quando começa na quarta. E no final a mesma coisa, se dura mais tempo ele não atualiza. Ultimamente a parte de editar o ciclo não anda aparecendo, o círculo só fica branco. Tendo que entrar no calendário toda vez. Espero que vocês arrumem esse bugs porque gosto muito de usar o app. Não queria ter que trocar.',
+    'Uso o app dês de as primeiras versões e a evolução é incrível, sempre funcionou muito bem. Já aconteceu de errar um ou dois dias a data do meu ciclo mas depois descobri que interagir com o app e registrar o máximo de informações possíveis deixa ele como muito mais precisão. Uma coisa que me preocupa é que agora ele tem a opção de pagar mensalidade, fico receosa com a possibilidade de algum dia ele deixar de ser gratuito, mas de resto é um app maravilhoso.',
+    'Gosto bastante do app. É fácil de usar, é bonito e tem gráficos legais para consultarmos. Às vezes ele dá uma bugada e some a contagem de dias para minha menstruação, mas nada que fechar e abrir de novo não resolva. Ah, mais um detalhe, deveria ter mais opções de atividades físicas, por exemplo, pilates. Tem ioga e não tem pilates. Enfim, o app é bem legal. Parabéns!',
+    'Gosto bastante, mesmo a versão gratuita te permite ter acesso a muitas funções básicas fundamentais, como a contagem de dias até a chegada da menstruação, informar os prováveis dias férteis, fase lútea, etc. Podemos marcar a alteração de humor e do muco também, o que ajuda o app a registrar a chegada dos "dias vermelhos". Só não temos acesso a alguns artigos que poderiam ajudar a entender melhor o que estamos passando em cada fase do mês, pois ela é destinada à versão premium do app. Recomendo.',
+    'Eu gosto muito do aplicativo. Ele é simples, traz ótimas informações e tem uma skin super amigável. A única questão é que gostaria que meu companheiro acompanhasse meu ciclo, e o aplicativo não traz essa opção. O companheiro poderia ter acesso apenas as minhas informações de ciclo e humor, sem poder editá-las, p. ex. Outros apps já tem essa função, porém gosto mais do Flow inclusive por ser totalmente em Português, e com poucas propagandas no modo gratuito.',
+    'Fácil de navegar, ótimo pra entender as fases que passamos durante o mês. O app te oferece informações sobre o que está acontecendo com o seu corpo dependendo do momento do seu ciclo. Isso faz toda a diferença quando tô mais pra baixo e vejo que tem muito a ver com a fase do meu ciclo. Além disso, o app dá dicas de como lidar com cada fase do ciclo, sempre me sinto acolhida e compreendida :)',
+    'Flo, gosto muito do aplicativo e tenho 5 anos de uso e desde então sempre me ajudou em muitas maneiras como entender melhor sobre meu ciclo, meu corpo, saúde e entre outras coisas que faz muito bem. Queria mais é fazer um pedido sobre a parte de registrar emoções, que tenha mais opções pq as vezes sinto falta de ter mais escolhas. Por exemplo, tem a opção "insônia" e poderia ter um "sonolenta" só um exemplo bem tosco, mais que ajuda a registrar mais detalhes de cada um que usar o aplicativo.',
+    'Ótimo app, faz a gente ter outro olhar sobre o ciclo, pois nos dá a opção de monitorar tantas variantes, que as coisas começam a fazer mais sentido. Por ex, descobri que minhas dores de cabeça estão ligadas ao meu período de ovulação. Além de tudo, o App traz muita informação em formato de pequenos artigos e questionários. Muito bom!',
+    'Uso o aplicativo á dois anos e sua funcionalidade apenas melhora. Alguns aperfeiçoamentos são necessários, como por exemplo monitorar o sono e o feed de informações. Mas recomendo muito para quem precisa de um app prático e o melhor de tudo, sem anúncios. O fato de não ter anúncios é simplesmente perfeito e mostra que o desenvolvedor respeita a privacidade dos usuários.'
+  ],
+  appId: 'org.iggymedia.periodtracker',
+  url: 'https://play.google.com/store/apps/details?id=org.iggymedia.periodtracker&hl=pt-br&gl=br'
+}
